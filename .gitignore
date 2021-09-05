@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# AVR files
+*.xml
+*.cproj
+
 # Object files
 *.o
 *.ko
@@ -41,6 +45,12 @@
 *.su
 *.idb
 *.pdb
+*.eep
+*.lss
+*.map
+*.srec
+*.mk
+
 
 # Kernel Module Compile Results
 *.mod*
